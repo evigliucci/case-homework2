@@ -99,4 +99,20 @@ img {
 .portfolio .row + .year {
   margin-top: 200px;
 }
+
+.contact h1 {
+  font-size: 48px;
+}
+
+.contact .social {
+  margin: 0 auto;
+}
+
+.contact button {
+  background: #055569;
+  color: #fff;
+  border: none;
+  padding: 12px 24px;
+  margin-left: 16px;
+}
 /*# sourceMappingURL=styles.css.map */
